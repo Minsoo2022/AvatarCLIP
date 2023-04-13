@@ -7,3 +7,11 @@ AvatarGen/ShapeGen/output
 pretrained_models
 avatarclip_data
 avatarclip_data.zip
+*.xml
+*.iml
+AvatarGen/.DS_Store
+AvatarGen/AppearanceGen/.DS_Store
+AvatarGen/AppearanceGen/data/.DS_Store
+AvatarGen/AppearanceGen/data/zero_beta_standpose_render/.DS_Store
+AvatarGen/AppearanceGen/data/zero_beta_tpose_render/.DS_Store
+.DS_Store
